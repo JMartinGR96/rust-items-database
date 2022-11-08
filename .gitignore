@@ -1,0 +1,11 @@
+#Archivos del sistema
+.DS_Store
+
+#Librerias jar
+*.jar
+
+#Clases java
+*.java
+
+#Scripts
+*.sh
